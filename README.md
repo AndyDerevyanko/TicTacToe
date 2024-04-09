@@ -1,10 +1,10 @@
 <h1 align="center"> Tic-Tac-Toe </h1>
 <p align="center">
-⁣⭕❕⭕❕❌
-➖➕➖➕➖
-⭕❕⁣❌❕⭕
-➖➕➖➕➖
-❌❕⭕❕❌
+⁣⭕❕⭕❕❌ <br>
+➖➕➖➕➖ <br>
+⭕❕⁣❌❕⭕ <br>
+➖➕➖➕➖ <br>
+❌❕⭕❕❌ <br>
 </p>
 #
 Welcome to my Tic-Tac-Toe program, where you can challenge your friends, or family!
@@ -16,9 +16,6 @@ With customizeable board size and options to select varying numbers of teams, th
 ## 🎮 Working Demo
 
 Try out a working demo [here](https://onlinegdb.com/S1LLdhutl).
-
-<script src="//onlinegdb.com/embed/js/S1LLdhutl?theme=undefined"></script>
-
 <p align="left" style="">
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/demo.png" alt="demo" width="300">
 </p>
