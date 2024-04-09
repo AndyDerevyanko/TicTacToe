@@ -17,13 +17,13 @@ With customizeable board size and options to select varying numbers of teams, th
 
 Try out a working demo [here](https://onlinegdb.com/S1LLdhutl).
 <p align="left" style="">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/demo.png" alt="demo" width="300">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/TicTacToe/main/images/demo.png" alt="demo" width="300">
 </p>
 <p align="left" style="">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/demo.png" alt="demo2" width="300">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/TicTacToe/main/images/demo2.png" alt="demo2" width="300">
 </p>
 <p align="left" style="">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/demo.png" alt="demo3" width="300">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/TicTacToe/main/images/demo3.png" alt="demo3" width="300">
 </p>
 
 ## 🧩 Features
