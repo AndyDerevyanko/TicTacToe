@@ -1,4 +1,4 @@
-<h1 align="center"> Tic-Tac-Toe </h1>
+<h1 align="center"> 🧩 Tic-Tac-Toe 👑</h1>
 <p align="center">
 ⁣⭕❕⭕❕❌ <br>
 ➖➕➖➕➖ <br>
