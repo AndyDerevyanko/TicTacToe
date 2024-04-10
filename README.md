@@ -8,9 +8,9 @@
 </p>
 <h1 align="center"> </h1>
 <p align="center">
-  <a href="https://github.com/AndyDerevyanko/Console-Tetris/issues">Report Bug</a>
+  <a href="https://github.com/AndyDerevyanko/TicTacToe/issues">Report Bug</a>
   ·
-  <a href="https://github.com/AndyDerevyanko/Console-Tetris/issues">Request Feature</a>
+  <a href="https://github.com/AndyDerevyanko/TicTacToe/issues">Request Feature</a>
 </p>
 <h1 align="center"> </h1>
 
