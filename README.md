@@ -13,7 +13,11 @@ Welcome to my Tic-Tac-Toe program, where you can challenge your friends, or fami
 Tic-Tac-Toe, the classic game of strategy, has been a beloved pastime for generations. Whether you're a seasoned strategist or a newcomer to the game, this program is sure to provide you with an excellent platform to have fun or test your skills. 
 
 With customizeable board size and options to select varying numbers of teams, this program offers an an engaging way to play Tic-Tac-Toe straight from your console. 
-
+<p align="center">
+  <a href="https://github.com/AndyDerevyanko/Console-Tetris/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/AndyDerevyanko/Console-Tetris/issues">Request Feature</a>
+</p>
 ## 🎮 Working Demo
 
 Try out a working demo [here](https://onlinegdb.com/S1LLdhutl).
